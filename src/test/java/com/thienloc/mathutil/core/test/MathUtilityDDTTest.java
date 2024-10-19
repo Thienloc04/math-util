@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class MathUtilityDDTTest {
 
     //CLASS NÀY SẼ CHỨA CÁC HÀM KIỂM THỬ CODE THEO STYLE DDT
-    //DATA DRIVEN TESTIN, TA TÁCH CODE KIỂM THỬ ( CÁC LỆNH ASSERT()) RIÊNG
+    //DATA DRIVEN TESTING, TA TÁCH CODE KIỂM THỬ ( CÁC LỆNH ASSERT()) RIÊNG
     //KO GỘP CHUNG VỚI BỘ DATA KIỂM THỬ
     //MỤC TIÊU : DỄ ĐỌC CODE KIỂM THỬ, DỄ ĐÁNH GIÁ ĐC XEM CÓ BAO NHIÊU TEST CASE ĐANG ĐC TEST, ĐÃ ĐỦ HAY CHƯA, VÌ NÓ RẤT DỄ NHÌN
     //DO DATA NẰM RIÊNG
